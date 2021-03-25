@@ -22,7 +22,8 @@ Understanding how customers interact with a physical space is often difficult (a
 * Gather raw data -> Google Big Query (raw) -> Modeling & Analysis (Python) -> Google Big Query (processed) -> Tableau Front-end
 * Source control & collaboration using GitHub 
 * My individual contributions & responsibilites included:
-  - Model iteration improvements: improve zone labeling algorithm for labeling an interaction in one of 45 zones from a random guess, 2.22% accuracy, to over 60% accuracy
+  - Design & implement data gathering protocols to create a formal training & testing data set
+  - Model iteration: improve zone labeling algorithm for labeling an interaction in one of 45 zones from a random guess, 2.22% accuracy, to over 60% accuracy
   - Improve performance & legibility of inherited legacy code
   - Automate cloud scheduling to read & write from Google BigQuery daily, as well as backfill data for previous months
 
