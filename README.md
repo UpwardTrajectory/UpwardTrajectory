@@ -4,9 +4,9 @@ My name is David Kaspar and I'm a creative data scientist/engineer and design th
 
 ## ⚡ Highlighted Projects
 #### Data Science Consulting
-Due to signing an NDA, I cannot discuss my time as a consultant in detail, but I can confidently say I used the following tools to collaborate with both our internal team and our external clients (both technical & non-technical) to solve a wide variety of challenging, data-related problems.
+Due to signing an NDA, I cannot discuss my time as a consultant in detail, but I can confidently say I used the following tools to collaborate with both our internal team and our external clients (technical & non-technical) to solve a wide variety of challenging, data-related problems.
 * Source-control: Git, GitHub, Atlassian BitBucket
-* Machine Learning Python Libraries: Pandas, NumPy, Scikit-Learn, PyTorch, Tensorflow, SpaCy, NLTK, FB Prophet
+* Python Machine Learning Libraries: Pandas, NumPy, Scikit-Learn, PyTorch, Tensorflow, SpaCy, NLTK, FB Prophet
 * Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plot.ly
 * Cloud Computing: 
     - Amazon Web Services (AWS, S3, EC2, SageMaker)
@@ -29,13 +29,14 @@ Meander Maker leverages user-input to customize the "best" cluster based on how 
 * Short transit distance within the stops of the cluster (after initial travel to stop #1 is completed)
 
 ## 💬 Blog Articles
-
+<!--
 **Natural Language Processing**
 - [Leveraging AI+ Written/Spoken Word for Sales Enablement](http://blog.pandata.co/leveraging-ai-written-spoken-word-for-sales-enablement/)
 - [Joy to the World: Holid.AI Card Generator Volume III](http://blog.pandata.co/joy-to-the-world-holid-ai-greetings-volume-iii/)
 
 
 **Mathematics**
+-->
 - [Determinining Underlying Growth Models Mathematically](https://dev.to/upwardtrajectory/something-is-growing-and-it-s-growing-very-fast-but-how-fast-1li6)
 - [Engineering Location Features with Haversine's Formula for Prediction Modeling](https://dev.to/upwardtrajectory/engineering-location-features-with-haversine-s-formula-for-prediction-modeling-23n2)
 
