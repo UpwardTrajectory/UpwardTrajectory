@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-My name is David Kaspar and I'm a creative data scientist/engineer and design thinker with experience in python, statistical analysis, machine learning, and natural language processing. With a background in math education and entrepreneurship, I build and connect data pipelines, creating robust & performant tools while answering business-centric questions. I transform numbers, data, and abstract ideas into something that makes sense to people and organizations so that they can make informed, data-driven decisions.
+My name is David Kaspar and I'm a creative data scientist/engineer and design thinker with experience in Python, statistical analysis, machine learning, and natural language processing. With a background in math education and entrepreneurship, I build and connect data pipelines, creating robust & performant tools while answering business-centric questions. I transform numbers, data, and abstract ideas into something that makes sense to people and organizations so that they can make informed, data-driven decisions.
 
+[Downloadable Resume](https://docs.google.com/document/d/1OrCGWByzGM2lxXiBICyUURF12C9lhmaqHeNYhJduQuE/edit?usp=sharing)
 
 #### My Time as a Data Science Consultant
 Due to signing an NDA, I cannot discuss anything here in great detail, but I can share some high-level ideas and some of the tools I used to collaborate with both our internal team and our external clients (technical & non-technical) to solve a wide variety of challenging, data-related problems.
