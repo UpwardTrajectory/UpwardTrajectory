@@ -73,7 +73,7 @@ Meander Maker leverages user-input to customize the "best" cluster based on how 
 ## 🔭 Currently Working On
 
 - Clustering of unlabeled text documents with Natural Language Understanding (NLU) techniques
-- Pros & Cons between cloud-computing services (AWS, GCP, Azure, IBM Watson, etc)
+- Pros & Cons between cloud-computing services (AWS, GCP, Azure, DataBricks, IBM Watson, etc)
 - Contributing to Open-Source machine learning libraries
 - Drafting a "Performant Pandas" blog. A collection of tips to improve performance & readability for many common Pandas DataFrame operations
 
